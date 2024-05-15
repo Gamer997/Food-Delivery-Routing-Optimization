@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Stuff\\Education Stuff\\FastUniversity\\4th Semester\\Data Structures\\Project\\ProjectCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134AAC30-C397-433B-AD45-6B7787D507DD}|ProjectCode.vcxproj|D:\\My Stuff\\Education Stuff\\FastUniversity\\4th Semester\\Data Structures\\Project\\ProjectCode\\ProjectCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{134AAC30-C397-433B-AD45-6B7787D507DD}|ProjectCode.vcxproj|solutionrelative:ProjectCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectCode.cpp",
+              "DocumentMoniker": "D:\\My Stuff\\Education Stuff\\FastUniversity\\4th Semester\\Data Structures\\Project\\ProjectCode\\ProjectCode.cpp",
+              "RelativeDocumentMoniker": "ProjectCode.cpp",
+              "ToolTip": "D:\\My Stuff\\Education Stuff\\FastUniversity\\4th Semester\\Data Structures\\Project\\ProjectCode\\ProjectCode.cpp",
+              "RelativeToolTip": "ProjectCode.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T11:17:42.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
